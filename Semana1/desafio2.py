@@ -1,0 +1,2 @@
+usuario = input("Ingrese su nombre, su edad y su ciudad de residencia, separando por comas:").split(",")
+print("Su nombre es: " + usuario[0] + ", tiene " + usuario[1] + " años, y vive en la ciudad de " + usuario[2] + ".")
